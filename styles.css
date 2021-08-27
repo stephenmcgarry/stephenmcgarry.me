@@ -1,4 +1,11 @@
 body {
-    font-family: Arial;
+    font-family: Georgia;
     text-align: left;
+    background-color: darkslategrey;
+}
+
+header {
+    color: whitesmoke;
+    background-color: blue;
+    font-size: xx-large;
 }

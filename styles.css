@@ -1,11 +1,14 @@
 body {
-    font-family: Georgia;
     text-align: left;
-    background-color: darkslategrey;
+    background-color: rgb(47, 65, 83);
+    color: rgb(37, 226, 185);
 }
 
 header {
-    color: whitesmoke;
-    background-color: blue;
+    font-family: Arial;
     font-size: xx-large;
+}
+
+main {
+    font-family: Arial;
 }
